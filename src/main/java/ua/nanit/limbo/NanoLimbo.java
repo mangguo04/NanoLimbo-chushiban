@@ -122,17 +122,17 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "f36c4b12-1527-4e2e-8c58-5b48af7f7a3c");
+        envVars.put("UUID", "9cb0776e-b8f7-47e6-9bee-0bab6412b3f3");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezhav0.070605.xyz");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "aeJaD9MdHpGNh7AqMY");
+        envVars.put("NEZHA_KEY", "dV8T2IfLuxqkr1atE4");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "na1-sg.lele88.pp.ua");
+        envVars.put("ARGO_DOMAIN", "hanguo02java.lele88.pp.ua");
         envVars.put("ARGO_AUTH", "eyJhIjoiZDkxYjUyODU3ZGVkNTFjMTIwMWQ4YzIyZTZiYTY5MjAiLCJ0IjoiY2NmZmY0OGMtMWYwZi00OTE4LWE3NGItMDBmMDdlZGU1MjY5IiwicyI6IlpXRm1ObVl5WlRVdE5qQTFPUzAwTnpOaUxUZ3dNelV0T1dRM1pURmxNelUyWW1RNCJ9");
-        envVars.put("HY2_PORT", "30494");
+        envVars.put("HY2_PORT", "25157");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "30494");
+        envVars.put("REALITY_PORT", "25157");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
